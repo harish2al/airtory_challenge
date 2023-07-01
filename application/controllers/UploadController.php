@@ -7,9 +7,9 @@ class UploadController extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-        $this->bucketName = 'mysampleupload';
+        $this->bucketName = 'xxxxxx';
         $this->requiredBaseLength = 60;
-        $this->pipelineId = '1688207284987-yklbd5';
+        $this->pipelineId = 'xxxxxx';
     }
 
     /**
